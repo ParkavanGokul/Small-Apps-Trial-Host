@@ -1,0 +1,2 @@
+# Small-Apps-Trial-Host
+TEMPLATE WEB APP TRIAL HOST
